@@ -1,0 +1,24 @@
+{
+  "name": "app_scraping",
+  "version": "1.0.0",
+  "description": "- add Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gerzhan/node_scraping.git"
+  },
+  "author": "Nikolay Gerzhan <nikolay.gerzhan@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gerzhan/node_scraping/issues"
+  },
+  "homepage": "https://github.com/gerzhan/node_scraping#readme",
+  "dependencies": {
+    "express": "latest",
+    "request": "latest",
+    "cheerio": "latest"
+  }
+}
